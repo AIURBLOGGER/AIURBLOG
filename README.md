@@ -2,7 +2,7 @@
 <!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
 
 ![Welcome!](tgVKeEfr.gif)
-![Welcome!](https://aiur.myxvest1.ru/Api/aiurblogger.php?text=Samarqand)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakew&theme=github_dark&show_icons=true)](https://github.com/AIURBLOGGER/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew&theme=github_dark&layout=compact)](https://wakatime.com/@asakew)
 
