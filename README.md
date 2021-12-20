@@ -9,6 +9,8 @@
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=asakew&theme=github_dark&show_icons=true)](https://github.com/AIURBLOGGER/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asakew&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AIURBLOGGER)](https://github.com/AIURBLOGGER)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Perfectionist_2225)](https://t.me/perfectionist_2225)
