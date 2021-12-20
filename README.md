@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakew&theme=github_dark&show_icons=true)](https://github.com/AIURBLOGGER/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew&theme=github_dark&layout=compact)](https://wakatime.com/@asakew)
 
-[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=asakew&theme=github_dark&show_icons=true)](https://github.com/AIURBLOGGER/)
+[![AIURBLOGGER's github stats](https://github-readme-stats.vercel.app/api?username=asakew&theme=github_dark&show_icons=true)](https://github.com/AIURBLOGGER/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asakew&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
